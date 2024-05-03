@@ -1,11 +1,4 @@
-# I certify that the Python program I am submitting is all my own work.
-# None of the code is copied from any source or any person
-# Signed: Dylan Theis, Date: 02/09/2023
 
-# Author: Dylan Theis
-# Date: Spring 2023
-# Class: CSC115
-# Project: Program 5
 # Description: English to Hmong Translator
 
 x = ""
